@@ -1,6 +1,6 @@
 # Let's Move to EVM: Secure Compilation with IRM
 
-Here you can find a copy of the [full paper](https://github.com/lets-move-to-evm/lets-move-to-evm/LetsMoveToEVM.pdf).
+Here you can find a copy of the [full paper](https://lets-move-to-evm.github.io/LetsMoveToEVM.pdf).
 This repository contains the implementation of the IRM-based Move to EVM compiler. 
 It is a fork of the [original Move language repository](https://github.com/move-language/move).
 
